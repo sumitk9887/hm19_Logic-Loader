@@ -1,7 +1,7 @@
 # hm19_Logic-Loader
 HackMsit
 
-First Open the video....
+ Open the video, watch till end.
 
 Team Name:- Logic Loader
 
